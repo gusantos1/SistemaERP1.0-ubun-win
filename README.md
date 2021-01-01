@@ -1,4 +1,4 @@
-# Projeto ERP 1.0 c/ QT e Sqlite (Code e Exec) <img src="https://github.com/gusantos1/icons/blob/main/pylogo2.jpg" width="100" height="100">
+# Projeto ERP 1.0 c/ PyQt5 e Sqlite (Code e Exec) <img src="https://github.com/gusantos1/icons/blob/main/pylogo2.jpg" width="100" height="100">
 ---
 Esse projeto foi desenvolvido com python 3, PyQt5 e Sqlite com base na minha experiência profissional em SAP MM. A atenção principal do projeto está inclinada para as funcionalidades (back-end), dispensando técnicas sofisticadas de layout e UX.
 > Tecnlogias:
