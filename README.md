@@ -30,7 +30,23 @@ sudo apt-get install pyqt5-dev-tools
 sudo apt-get install qttools5-dev-tools
 ```
 ---
-# Tela de execução
+# Rodando executável no ubuntu/mint:
+```
+Após baixar e descompactar o arquivo "Sistema ERP 1.0 Ubuntu.tar" em seu diretório de escolha,
+abra o terminal a partir da pasta que contém os arquivos e execute o comando: ./main
+```
+<img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/linux.png" width="70%">
+
+---
+# Rodando executável no windows:
+```
+Após baixar e descompactar o arquivo "Sistema ERP 1.0 Win.rar" em seu diretório de escolha,
+abra o arquivo main.
+```
+<img src="https://github.com/gusantos1/icons/blob/2f8013b7f5c675eb4be0efe0ace8e6c54c982e99/telas%20erp/telaexecwin.png" width="70%">
+
+---
+<h1 align="center">Telas de execução.</h1>
 
 <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/1login.png"> <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/2principal.png" width="600px" height="560px">
 <p align="center">
@@ -39,15 +55,14 @@ sudo apt-get install qttools5-dev-tools
   <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/4editar.png" width="98%">
   
 <p float="left">
-  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/5entrada.png" width="45%"> <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/6hist-entrada.png" width="500ox" height="381px">
-  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/7saida.png" width="45%">
-  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/8hist-saida.png" width="500ox" height="381px">
+  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/5entrada.png" width="45%">  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/6hist-entrada.png" width="500px" height="381px">
+  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/7saida.png" width="45%">  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/8hist-saida.png" width="500px" height="384px">
   </p>
   <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/9venda.png" width="98%">
 
 ---
 ## Contato
-*Quer trocar uma idéia, ficou com alguma dúvida ou tem algo que eu posso te ajudar ? Quer mandar **joooobs** :dollar: ? **Fique a vontade!** :wink:*
+*Quer trocar uma idéia, ficou com alguma dúvida ou tem algo que eu posso te ajudar ? **Fique a vontade!** :wink:*
 |Canais||
 |--|---|
 <img src="https://github.com/gusantos1/icons/blob/main/gmail.jpg" width="20" height="20"> |*gusantos.ok@gmail.com*
