@@ -60,6 +60,9 @@ abra o arquivo main.
   </p>
   <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/9venda.png" width="98%">
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cbQgE8paivU/0.jpg)](https://www.youtube.com/watch?v=cbQgE8paivU)
+
+
 ---
 ## Contato
 *Quer trocar uma idéia, ficou com alguma dúvida ou tem algo que eu posso te ajudar ? **Fique a vontade!** :wink:*
