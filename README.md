@@ -39,7 +39,7 @@ abra o terminal a partir da pasta que contém os arquivos e execute o comando: .
 
 ---
 # Rodando executável no windows:
-### Lembrando que o layout do programa foi desenvolvido em Linux Mint e a compilação feita para outro SO, que pode gerar resultados inesperados se tretando de layout; porém a eficiência das funcionalidades se mantém.
+#### Lembrando que o layout do programa foi desenvolvido em Linux Mint e a compilação feita para outro SO, que pode gerar resultados inesperados se tretando de layout; porém a eficiência das funcionalidades se mantém.
 ```
 Após baixar e descompactar o arquivo "Sistema ERP 1.0 Win.rar" em seu diretório de escolha,
 abra o arquivo main.
