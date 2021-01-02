@@ -60,9 +60,10 @@ abra o arquivo main.
   </p>
   <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/9venda.png" width="100%">
 
-[![](http://img.youtube.com/vi/cbQgE8paivU/0.jpg)](http://www.youtube.com/watch?v=cbQgE8paivU "https://github.com/gusantos1/icons/blob/main/telas%20erp/tela.png")
+<h1 align="center">Vídeo da aplicação.</h1>
 
-
+#####Clique para assistir
+[![](http://img.youtube.com/vi/cbQgE8paivU/0.jpg)](http://www.youtube.com/watch?v=cbQgE8paivU "")
 
 ---
 ## Contato
