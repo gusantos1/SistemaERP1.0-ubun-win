@@ -1,0 +1,12 @@
+{
+    "Mercadorias": {
+        "Microondas": {
+            "id": "202038838",
+            "fornecedor": "Lg",
+            "departamento": "Eletrodom\u00e9sticos",
+            "preco_de_custo": 100.0,
+            "preco_de_venda": 399.9,
+            "quantidade": 0
+        }
+    }
+}
