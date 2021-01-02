@@ -52,13 +52,13 @@ abra o arquivo main.
 <p align="center">
 <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/3cadastro.png">
   </p>
-  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/4editar.png" width="98%">
+  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/4editar.png" width="100%">
   
 <p float="left">
   <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/5entrada.png" width="44%">  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/6hist-entrada.png" width="55%">
   <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/7saida.png" width="44%">  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/8hist-saida.png" width="55%">
   </p>
-  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/9venda.png" width="98%">
+  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/9venda.png" width="100%">
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cbQgE8paivU/0.jpg)](https://www.youtube.com/watch?v=cbQgE8paivU)
 
