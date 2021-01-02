@@ -55,8 +55,8 @@ abra o arquivo main.
   <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/4editar.png" width="100%">
   
 <p float="left">
-  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/5entrada.png" width="44.5%">  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/6hist-entrada.png" width="55%">
-  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/7saida.png" width="44%.5">  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/8hist-saida.png" width="55%">
+  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/5entrada.png" width="44.1%">  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/6hist-entrada.png" width="55%">
+  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/7saida.png" width="44%.1">  <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/8hist-saida.png" width="55%">
   </p>
   <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/9venda.png" width="100%">
 
