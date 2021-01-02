@@ -48,7 +48,7 @@ abra o arquivo main.
 ---
 <h1 align="center">Telas de execução.</h1>
 
-<img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/1login.png"> <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/2principal.png" width="600px" height="560px">
+<img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/1login.png"> <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/2principal.png" width="500px" height="560px">
 <p align="center">
 <img src="https://github.com/gusantos1/icons/blob/main/telas%20erp/3cadastro.png">
   </p>
