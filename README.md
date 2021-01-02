@@ -31,6 +31,8 @@ sudo apt-get install qttools5-dev-tools
 ```
 ---
 # Rodando executável no ubuntu/mint:
+<h3><a href="https://www.mediafire.com/file/4bypaejz52t7jhl/Sistema_ERP_1.0_Ubuntu.tar.gz/file">Download Sistema ERP 1.0 Ubuntu.tar</a></h3>
+
 ```
 Após baixar e descompactar o arquivo "Sistema ERP 1.0 Ubuntu.tar" em seu diretório de escolha,
 abra o terminal a partir da pasta que contém os arquivos e execute o comando: ./main
@@ -39,6 +41,8 @@ abra o terminal a partir da pasta que contém os arquivos e execute o comando: .
 
 ---
 # Rodando executável no windows:
+<h3><a href="https://www.mediafire.com/file/6oqq5d6mm7ohfby/Sistema_ERP_1.0_Win.rar/file">Download Sistema ERP 1.0 Win</a></h3>
+
 #### Lembrando que o layout do programa foi desenvolvido em Linux Mint e a compilação feita para outro SO pode gerar resultados inesperados se tretando de layout; porém a eficiência das funcionalidades se mantém.
 ```
 Após baixar e descompactar o arquivo "Sistema ERP 1.0 Win.rar" em seu diretório de escolha,
