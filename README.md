@@ -1,6 +1,6 @@
 # Projeto ERP 1.0 c/ PyQt5 e Sqlite (Code e Exec) <img src="https://github.com/gusantos1/icons/blob/main/pylogo2.jpg" width="100" height="100">
 ---
-Esse projeto foi desenvolvido com python 3, PyQt5 e Sqlite com base na minha experiência profissional em SAP MM. A atenção principal do projeto está inclinada para as funcionalidades (back-end), dispensando técnicas sofisticadas de layout e UX.
+Esse projeto foi desenvolvido com Linux Mint, Python 3, PyQt5 e Sqlite com base na minha experiência profissional em SAP MM. A atenção principal do projeto está inclinada para as funcionalidades (back-end), dispensando técnicas sofisticadas de layout e UX.
 > Tecnlogias:
 <img src="https://github.com/gusantos1/icons/blob/main/python_18894.png" width="26" height="26">  <img src="https://github.com/gusantos1/icons/blob/main/qt.png" width="24" height="24">  <img src="https://github.com/gusantos1/icons/blob/main/sqlite.png" width="55" height="24"> 
 ##### :heavy_exclamation_mark: Se você é aluno da UFRJ saiba que esse github possui várias resoluções de exercícios de computação que provavelmente você terá que lidar durante o período.:heavy_exclamation_mark:
@@ -39,6 +39,7 @@ abra o terminal a partir da pasta que contém os arquivos e execute o comando: .
 
 ---
 # Rodando executável no windows:
+###Lembrando que o layout do programa foi desenvolvido em Linux Mint e a compilação feita para outro SO, que pode gerar resultados inesperados se tretando de layout; porém a eficiência das funcionalidades se mantém.
 ```
 Após baixar e descompactar o arquivo "Sistema ERP 1.0 Win.rar" em seu diretório de escolha,
 abra o arquivo main.
