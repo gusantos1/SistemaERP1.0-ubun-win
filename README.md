@@ -62,7 +62,8 @@ abra o arquivo main.
 
 <h1 align="center">Vídeo da aplicação.</h1>
 
-#####Clique para assistir
+####Clique para assistir
+
 [![](http://img.youtube.com/vi/cbQgE8paivU/0.jpg)](http://www.youtube.com/watch?v=cbQgE8paivU "")
 
 ---
