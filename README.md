@@ -72,6 +72,11 @@ abra o arquivo main.
 [![](http://img.youtube.com/vi/cbQgE8paivU/0.jpg)](http://www.youtube.com/watch?v=cbQgE8paivU "")
 
 ---
+<h1 align="center">UML.</h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/gusantos1/SistemaERP1.0-ubun-win/main/uml_Sistema%20ERP%201.0.png">
+  </p>
+  
 ## Contato
 *Quer trocar uma idéia, ficou com alguma dúvida ou tem algo que eu posso te ajudar ? **Fique a vontade!** :wink:*
 |Canais||
